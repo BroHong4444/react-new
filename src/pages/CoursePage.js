@@ -57,7 +57,7 @@ const CoursePage = (dataProps) => {
                                         </div>
                                         <div className="flex space-x-2 items-center">
                                             <FaLayerGroup className="text-base text-blue-800" />
-                                            <span className="text-base text-blue-800">Medium</span>
+                                            <span className="text-base text-blue-800">Normal</span>
                                         </div>
                                     </div>
                                 </div>
