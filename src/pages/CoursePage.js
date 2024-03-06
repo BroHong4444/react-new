@@ -63,7 +63,7 @@ const CoursePage = (dataProps) => {
                                 </div>
                                 <div className="flex flex-wrap gap-2">
                                     <div className="text-sm text-white bg-red-500 rounded-full px-2 py-1 w-fit">
-                                        {item.discount}% Scholarship
+                                        {item.discount}% Discount
                                     </div>
                                     <div className="text-sm text-white bg-gray-500 rounded-full px-2 py-1 w-fit font-semibold">
                                         <del>$ {item.full_price}</del>
